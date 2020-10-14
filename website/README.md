@@ -1,4 +1,4 @@
-# yoogle
+# Yougle
 
 ## Build Setup
 

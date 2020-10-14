@@ -4,7 +4,7 @@
     <div
       class="w-full md:w-5/12 lg:w-1/3 p-8 lg:p-16 lg:h-screen text-gray-900"
     >
-      <h1 class="text-6xl font-bold">Yoogle</h1>
+      <h1 class="text-6xl font-bold">Yougle</h1>
 
       <!-- Search Field -->
       <div class="w-full mt-4 border border-gray-900 rounded-lg">
