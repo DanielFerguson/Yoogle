@@ -117,7 +117,6 @@
 
 <script>
 // TODO(dan): Intergrate Fathom analytics for website views, searches
-// TODO(dan): Intergrate advertising
 import algoliasearch from "algoliasearch/lite";
 
 export default {
@@ -125,7 +124,7 @@ export default {
     return {
       searchClient: algoliasearch(
         "2JNWXKECTG",
-        "47db2ef808bb7f443b59b4cefafee93c"
+        "e1fbba8f2d0de557ac1eb6d195d85155"
       ),
       channels: ["FriendlyJordies", "Sky News", "Dandrews", "Cody Ko"]
     };
